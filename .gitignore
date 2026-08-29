@@ -1,0 +1,12 @@
+# Eclipse workspace metadata
+.metadata/
+
+# Compiled class files
+*.class
+bin/
+
+# Eclipse per-project files stay tracked (.project, .classpath) so the repo opens anywhere
+
+# OS noise
+Thumbs.db
+desktop.ini
